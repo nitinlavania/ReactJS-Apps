@@ -1,0 +1,103 @@
+{
+    "userDetails":{
+      "userName":"xyz",
+      "userId":"E39d2",
+      "profilePic":"URL",
+      "phone":"8838383838",
+      "email":"test@email.com",
+      "address":{
+        "flatNo":"7-7-7",
+        "city":"Hyderabad",
+        "state":"Telangana",
+        "pinCode":"88888"
+      }
+    },
+    "wishList":{
+      "wishListItems":[
+        {
+          "productId":"1001",
+          "productName":"Shirt",
+          "price":2000,
+          "productImageURL":"URL",
+          "productDescription":"Made of pure cotton",
+          "ratings":4,
+          "productCategory":"clothes",
+          "availability":"available",
+          "quantity": 5,
+          "discount":50
+
+        },
+        {
+          "productId":"1002",
+          "productName":"Pant",
+          "price":2500,
+          "productImageURL":"URL",
+          "productDescription":"Great clothing experience",
+          "ratings":4,
+          "productCategory":"clothes",
+          "availability":"Out of Stock",
+          "quantity": 3,
+          "discount":40
+
+        },
+        {
+          "productId":"990",
+          "productName":"watch",
+          "price":1500,
+          "productImageURL":"URL",
+          "productDescription":"High Quality product",
+          "ratings":3,
+          "productCategory":"accessories",
+          "availability":"available",
+          "quantity": 6,
+          "discount":20
+
+        },
+        {
+          "productId":"0098",
+          "productName":"TV",
+          "price":25000,
+          "productImageURL":"URL",
+          "productDescription":"Ultra high definition TVs offer four times the resolution of full HD televisions",
+          "ratings":5,
+          "productCategory":"Home Appliances",
+          "availability":"available",
+          "quantity": 2,
+          "discount":50
+        }
+
+      ]
+    },
+  "cart":[
+    {
+      "productId":"1001",
+      "productName":"shoes",
+      "price":2300,
+      "discount":300,
+      "productImageURL":"URL",
+      "productDescription":"",
+      "ratings":4,
+      "productCategory":"clothes",
+      "availability":"available",
+      "quantity": 6
+
+    },
+    {
+      "productId":"7682",
+      "productName":"Pant",
+      "price":2500,
+      "discount":500,
+      "productImageURL":"URL",
+      "productDescription":"Great clothing experience",
+      "ratings":4,
+      "productCategory":"clothes",
+      "availability":"Out of Stock",
+      "quantity": 4
+
+    }
+
+
+  ]
+}
+
+
